@@ -254,8 +254,3 @@ EENNVVIIRROONNMMEENNTT
 
        SSYYSSTTEEMM SSYYSSTTEEMM is used to get the default alternate system name (for use
               with the --mm option).
-
-BBUUGGSS
-       The --tt option only works if a troff-like program is installed.
-       If you see blinking  \255  or  <AD>  instead  of  hyphens,  put  `LESS-
-       CHARSET=latin1' in your environment.
